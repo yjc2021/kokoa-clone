@@ -27,3 +27,9 @@
     justify-content: space-between;
     color: rgba(0,0,0,0.5);
 }
+.friends-screen .user-component .user-component__column:first-child {
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}

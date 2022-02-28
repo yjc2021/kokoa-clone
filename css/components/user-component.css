@@ -13,12 +13,7 @@
     flex-direction: column;
     align-items: flex-end;
 }
-.friends-screen .user-component .user-component__column:first-child {
-    color: black;
-    display: flex;
-    flex-direction: row;
-    align-items:center;
-}
+
 .user-component__avatar {
     width: 70px;
     height: 70px;
